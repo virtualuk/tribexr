@@ -1,0 +1,18 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Garden (original mix)	Blood Groove & Kikis	Best Of Deep House 2020 Vol 02	Deep house	122.00	     	06:28	Gm	2020-07-30
+2		Kaputt (Karmon remix)	OST & KJEX	Kaputt EP	Minimal/tech house	122.00	     	07:29	Gm	2020-07-30
+3		Please Don't Leave (Serge Devant Remix)	Leon, Nice7, Serge Devant	Please Don't Leave	Minimal / Deep Tech	123.00	     	07:32	Cm	2020-07-30
+4		Hindsight Bias (Original Mix)	Toman	Tamango Shots Vol.1	Minimal / Deep Tech	127.00	     	07:04	Fm	2020-07-30
+5		Freak (Djorda Luigia Remix)	Sugarstarr, Stage Rockers, Samantha Nova	Slave To The Rhythm, Vol. 2	Tech House	123.00	***  	05:43	Gm	2020-07-23
+6		Moody (Norty Cotto Revamp Mix)	Hondo Vega, Norty Cotto	Moody 2020 Remixes	Tech House	124.00	**** 	05:31	Gm	2020-07-23
+7		Sexi Brr Brr (Original Mix)	Break the Speaker	Sexi Brr Brr / Dus Das Pen	Tech House	125.00	***  	04:36	Am	2020-07-23
+8		C'mon Yeah (Original Mix)	Alexic Rod, Colombo	C’mon Yeah	Minimal / Deep Tech	124.00	     	07:48	Am	2020-07-30
+9		Sleeping Faster (Xavi Rabarte Rmx)	Julio Posadas, Iban Sanchez, Ricard Trias	Sleeping Faster	Tech House	126.00	***  	06:36	Am	2020-07-23
+10		Revolution feat. Nick Maurer (Extended Mix)	Nick Maurer, Catz 'n Dogz	Inner Revolution	Tech House	126.00	***  	06:55	Bm	2020-07-23
+11		Cali Soul (Qubiko Remix)	Crazibiza, Qubiko	Cali Soul	Tech House	123.00	***  	05:27	Bbm	2020-07-23
+12		5-2_Sides_Of_Soul_-_Turbulence-320kb_s_MP3				123.00	     	06:31	Fm	2020-07-30
+13		Noise Voice (Extended Mix)	Raumakustik, Tim Baresko	Noise Voice	Tech House	126.00	**** 	05:36	Gm	2020-07-23
+14		Wordplay (Original Mix)	Joeski	Drift Within	Minimal / Deep Tech	125.00	     	06:59	Gm	2020-07-30
+15		Saisho (Robert Furrier remix)	18 East	Best Of Tech House 2020	Minimal/tech house	125.00	     	06:30	Ebm	2020-07-30
+16		FAITH	AYVEATOR	FAITH	Deep house	123.00	     	04:35	Em	2020-07-30
+17		Module (original mix)	2A	Module	Minimal/tech house	120.00	     	06:24	D	2020-07-30
